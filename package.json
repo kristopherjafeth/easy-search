@@ -1,11 +1,11 @@
 {
-  "name": "easy-search",
+  "name": "easy-search-node",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["mongo", "search", "sanimex", "mongoose", "express"],
+  "keywords": ["mongo", "search", "mongoose", "express", "easy search", "easy"],
   "author": "Kristopher Jafeth",
   "license": "MIT",
   "description": "Una herramienta para facilitar búsquedas en MongoDB usando Mongoose.",
