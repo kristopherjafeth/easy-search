@@ -18,12 +18,3 @@ app.listen(PORT, async () => {
   console.log(`Servidor corriendo en http://localhost:${PORT}`);
 });
 
-//RUTAS PARA IMPORTAR Y BUSCAR
-
-// Importar productos desde GraphQL
-
-//http://localhost:3000/api/products/import
-
-// Buscar productos en MongoDB
-
-//http://localhost:5000/api/products/search?query=tina
