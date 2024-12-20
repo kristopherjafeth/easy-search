@@ -148,3 +148,4 @@ router.post("/update-product", async (req, res) => {
 
 
 module.exports = router;
+module.exports.productRoutes = router;
