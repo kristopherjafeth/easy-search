@@ -14,6 +14,6 @@ const connectMongo = async () => {
     }
 };
 
-const productRoutes = require('./routes/productRoutes'); 
+const productRoutes = require('../routes/productRoutes'); 
 
 module.exports = { connectMongo, productRoutes };
