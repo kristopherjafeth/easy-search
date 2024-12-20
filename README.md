@@ -1,1 +1,1 @@
-# easy-search
+# easy-search-wp
